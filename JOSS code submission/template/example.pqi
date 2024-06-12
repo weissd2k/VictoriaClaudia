@@ -1,0 +1,82 @@
+DATABASE /Users/wangjincheng/Desktop/davies/phreeqc/database/minteq.v4.dat
+TITLE 04_SURFACE_COMPLEXATION
+
+SOLUTION_MASTER_SPECIES
+Zn              Zn+2		0       65.37           65.37
+Citrate                 Citrate-3		2       189.06  189.06
+END
+
+SOLUTION_SPECIES
+Zn+2 + Citrate-3 = ZnCitrate-
+log_k		6.1
+Zn+2 + 2Citrate-3 = ZnCitrate2-4
+log_k		6.7
+Zn+2 + Citrate-3 + H+ = ZnCitrateH
+log_k		3.78
+Zn+2 + Citrate-3 + 2H+ = ZnCitrateH2+
+log_k		1.68
+END
+
+SOLUTION 1
+pH		3.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 2
+pH		4.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 3
+pH		5.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 4
+pH		6.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 5
+pH		7.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 6
+pH		8.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 7
+pH		9.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END
+
+SOLUTION 8
+pH		10.0
+Cl		0.1		mol/kgw
+Na		0.1		mol/kgw
+Zns	0.200 	mmol/kgw
+Citrates  0.200 	mmol/kgw
+END

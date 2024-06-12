@@ -1,0 +1,5 @@
+Reaction,logk,database
+Fe+2 + Citrate-3 = FeCitrate-,5.7,minteq
+Fe+2 + Citrate-3 + H+ = FeCitrateH,3.5,minteq
+Fe+3 + Citrate-3 = FeCitrate,12.55,minteq
+Fe+3 + Citrate-3 + H+ = FeCitrateH+,19.8,minteq

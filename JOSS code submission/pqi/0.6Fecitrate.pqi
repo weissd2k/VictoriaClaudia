@@ -1,0 +1,83 @@
+DATABASE /Users/eniolaadeyemi/Desktop/IRP/phreeqc/database/minteq.v4.dat
+TITLE 04_SURFACE_COMPLEXATION
+
+SOLUTION_MASTER_SPECIES
+Fe		Fe+3		-2.0	Fe	55.847
+Citrate		Citrate-3	2.0	189.102	189.102
+END
+   
+SOLUTION_SPECIES
+Fe+2 + Citrate-3 = Fe(Citrate)-
+log_k		5.562
+Fe+2 + Citrate-3 + H+ = FeH(Citrate)
+log_k		9.572
+Fe+3 + Citrate-3 = Fe(Citrate)
+log_k		12.293
+Fe+3 + Citrate-3 + H+ = FeH(Citrate)+
+log_k		13.593
+END
+   
+SOLUTION 1
+pH		3.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 2
+pH		4.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 3
+pH		5.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 4
+pH		6.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 5
+pH		7.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 6
+pH		8.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 7
+pH		9.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 8
+pH		10.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Fe	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+

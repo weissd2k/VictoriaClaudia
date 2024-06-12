@@ -1,0 +1,15 @@
+Reaction,logk,database,name
+Zn+2 + Cl- = ZnCl+,0.43,Amm,-log_k	-41.2
+Zn+2 + Cl- = ZnCl+,0.1986,core10,
+Tl+ =  Tl+,0,llnl,#	Enthalpy of formation:	-0 kcal/mol
+1.0000 Zn++ + 1.0000 Cl-  =  ZnCl+,+0.1986,llnl,
+1.0000 Zn++ + 1.0000 I-  =  ZnI+,-3.0134,llnl,
+Zn+2 + I- = ZnI+,-2.91,minteq,delta_h 0       kcal
+Zn+2 + Citrate-3 = ZnCitrate-,6.1,minteq,delta_h 0       kcal
+Zn+2 + 2Citrate-3 = ZnCitrate2-4,6.7,minteq,delta_h 0       kcal
+Zn+2 + Citrate-3 + H+ = ZnCitrateH,3.78,minteq,delta_h 0       kcal
+Zn+2 + Citrate-3 + 2H+ = ZnCitrateH2+,1.68,minteq,delta_h 0       kcal
+Mn+2 + Citrate-3 = MnCitrate-,5.28,minteq,delta_h 0       kcal
+Mn+2 + Citrate-3 + H+ = MnCitrateH,3.02,minteq,delta_h 0       kcal
+Zn+2 + I- = ZnI+,-2.0427,minteq.v4,#T and ionic strength:
+1.000Sn+2     + 1.000Cit-3     = Sn(Cit)-,8.700   ,si,

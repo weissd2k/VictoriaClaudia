@@ -1,0 +1,15 @@
+#,logk,database,name
+Ag+ =  Ag+,0,llnl,"#	Enthalpy of formation:	-116.1 kcal/mol"
+Ar =  Ar,0,llnl,"#	Enthalpy of formation:	-616.7 kJ/mol"
+Ag+ = Ag+,0,minteq,#######################################################
+Glutamate-2 = Glutamate-2,0,minteq,delta_h 0       kcal
+Cu+2 + Glutamate-2 = CuGlutamate,8.33,minteq,delta_h 0       kcal
+2Cu+2 + Glutamate-2 = Cu2Glutamate+2,14.84,minteq,delta_h 0       kcal
+Ni+2 + Glutamate-2 = NiGlutamate,5.9,minteq,delta_h 0       kcal
+2Ni+2 + Glutamate-2 = Ni2Glutamate+2,10.34,minteq,delta_h 0       kcal
+Cyanide- + Cd+2 = CdCyanide+,5.32,minteq,delta_h -83.7   kcal
+Cu+2 + Dimethylamine = CuDimethylamine+2,3.21,minteq,delta_h 0       kcal
+Cu+2 + Malate-2 = Cu(Malate),3.33,ricesoil,"log_k		7.1"
+Cu+2 + 2Malate-2 = Cu(Malate)2-2,8.4,ricesoil,"log_k		3.33"
+Cu+2 + Dma-3 = Cu(Dma)-,19.99,ricesoil,"log_k	16.07"
+Ag+ = Ag+,0,Tipping_Hurley,#Ag+ primary master species

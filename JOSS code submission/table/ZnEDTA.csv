@@ -1,0 +1,16 @@
+Reaction,logk,database,name
+Ethylenediamine = Ethylenediamine,0,minteq,delta_h 0       kcal
+Edta-4 = Edta-4,0,minteq,delta_h 0       kcal
+Cd+2 + Edta-4 + H+ = CdHEdta-,2.9,minteq,delta_h 0       kcal
+Cr+2 + Edta-4 + H+ = CrHEdta-,6.1,minteq,delta_h 0       kcal
+Cu+2 + Edta-4 = CuEdta-2,18.785,minteq,delta_h 0       kcal
+Cu+2 + Edta-4 + H+ = CuHEdta-,11.195,minteq,delta_h 0       kcal
+Pb+2 + Edta-4 + H+ = PbHEdta-,9.68,minteq,delta_h 0       kcal
+Pb+2 + Edta-4 + 2H+ = PbH2Edta,6.22,minteq,delta_h 0       kcal
+Ni+2 + Edta-4 = NiEdta-2,20.33,minteq,delta_h 0       kcal
+Ni+2 + Edta-4 + H+ = NiHEdta-,11.56,minteq,delta_h 0       kcal
+Ag+ + Edta-4 = AgEdta-3,7.355,minteq,delta_h 0       kcal
+Ag+ + 2Edta-4 = AgEdta2-7,11.355,minteq,delta_h 0       kcal
+Zn+2 + Edta-4 = ZnEdta-2,16.44,minteq,delta_h 0       kcal
+Zn+2 + Edta-4 + H+ = ZnHEdta-,9,minteq,delta_h 0       kcal
+Na+ + Edta-4 = NaEdta-3,2.5,minteq,delta_h 0       kcal

@@ -1,0 +1,17 @@
+
+----------------------------------------------------
+Find from: minteq
+----------------------------------------------------
+
+
+Fe+2 + Citrate-3 = FeCitrate-
+log_k   5.7
+
+Fe+2 + Citrate-3 + H+ = FeCitrateH
+log_k   3.5
+
+Fe+3 + Citrate-3 = FeCitrate
+log_k   12.55
+
+Fe+3 + Citrate-3 + H+ = FeCitrateH+
+log_k   19.8

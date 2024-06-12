@@ -1,0 +1,17 @@
+Reaction,logk,database,name
+Ag+ =  Ag+,0,llnl,#	Enthalpy of formation:	-116.1 kcal/mol
+Ar =  Ar,0,llnl,#	Enthalpy of formation:	-616.7 kJ/mol
+Au+ =  Au+,0,llnl,#	Enthalpy of formation:	-2.87 kcal/mol
+Ag+ = Ag+,0.0,wateq4f,#Ag+ primary master species
+Cd+2 + Humate-2 = CdHumate,3.5,wateq4f,#CdHumate            530
+Dma-3 = Dma-3,0,ricesoil,log_k 0
+H+ + Dma-3 = H(Dma)-2,10.24,ricesoil,log_k	14.80
+2H+ + Dma-3 = H2(Dma)-,18.37,ricesoil,log_k	10.24
+3H+ + Dma-3 = H3(Dma),21.98,ricesoil,log_k	18.37
+4H+ + Dma-3 = H4(Dma)+,24.97,ricesoil,log_k	21.98
+Mn+2 + Dma-3 = Mn(Dma)-,9.58,ricesoil,log_k	24.97
+Ni+2 + Dma-3 = Ni(Dma)-,16.07,ricesoil,log_k	9.58
+Cu+2 + Dma-3 = Cu(Dma)-,19.99,ricesoil,log_k	16.07
+Zn+2 + Dma-3 = Zn(Dma)-,14.13,ricesoil,log_k	19.99
+Fe+2 + Dma-3 = Fe(Dma)-,11.69,ricesoil,log_k	14.13
+Ethylenediamine = Ethylenediamine,0,minteq,delta_h 0       kcal

@@ -1,0 +1,83 @@
+DATABASE \\icnas1.cc.ic.ac.uk\vea19\downloads\Folder example version4/phreeqc/database/minteq.v4.dat
+TITLE 04_SURFACE_COMPLEXATION
+
+SOLUTION_MASTER_SPECIES
+Zn		Zn+2		0.0	Zn	65.39
+Citrate		Citrate-3	2.0	189.102	189.102
+END
+   
+SOLUTION_SPECIES
+Zn+2 + Citrate-3 = Zn(Citrate)-
+log_k		5.672000000000001
+Zn+2 + 2Citrate-3 = Zn(Citrate)2-4
+log_k		7.131
+Zn+2 + Citrate-3 + H+ = ZnH(Citrate)
+log_k		9.572000000000001
+Zn+2 + Citrate-3 + 2H+ = ZnH2(Citrate)+
+log_k		12.212
+END
+   
+SOLUTION 1
+pH		3.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 2
+pH		4.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 3
+pH		5.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 4
+pH		6.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 5
+pH		7.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 6
+pH		8.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 7
+pH		9.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+
+SOLUTION 8
+pH		10.0
+Cl		0.6		mol/kgw
+Na		0.6		mol/kgw
+Zn	0.200 	mmol/kgw
+citrate  0.200 	mmol/kgw
+END
+

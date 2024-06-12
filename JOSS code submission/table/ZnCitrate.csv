@@ -1,0 +1,14 @@
+Reaction,logk,database,name
+e- = e-,0,ColdChem,log_k	0
+e- = e-,0.000,iso,
+I- = I-,0,minteq,delta_h -16.605 kcal
+Ni+2 + Citrate-3 = NiCitrate-,6.62,minteq,delta_h 0       kcal
+Ni+2 + Citrate-3 + H+ = NiCitrateH,4.09,minteq,delta_h 0       kcal
+Ni+2 + Citrate-3 + 2H+ = NiCitrateH2+,2.13,minteq,delta_h 0       kcal
+Zn+2 + Citrate-3 = ZnCitrate-,6.1,minteq,delta_h 0       kcal
+Zn+2 + 2Citrate-3 = ZnCitrate2-4,6.7,minteq,delta_h 0       kcal
+Zn+2 + Citrate-3 + H+ = ZnCitrateH,3.78,minteq,delta_h 0       kcal
+Zn+2 + Citrate-3 + 2H+ = ZnCitrateH2+,1.68,minteq,delta_h 0       kcal
+Mn+2 + Citrate-3 = MnCitrate-,5.28,minteq,delta_h 0       kcal
+Mn+2 + Citrate-3 + H+ = MnCitrateH,3.02,minteq,delta_h 0       kcal
+I- = I-,0.0,Tipping_Hurley,#I- primary master species

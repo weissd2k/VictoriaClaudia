@@ -1,0 +1,11 @@
+Reaction,logk,database,name
+e- = e-,0,ColdChem,log_k	0
+e- = e-,0.0,wateq4f,#e- primary master species
+F- = F-,0.0,wateq4f,#F- primary master species
+I- = I-,0.0,wateq4f,#I- primary master species
+e- = e-,0.000,iso,
+F- = F-,0.000,iso,
+Fe+2 + Citrate-3 = FeCitrate-,5.7,minteq,delta_h 0       kcal
+Fe+2 + Citrate-3 + H+ = FeCitrateH,3.5,minteq,delta_h 0       kcal
+Fe+3 + Citrate-3 = FeCitrate,12.55,minteq,delta_h 0       kcal
+Fe+3 + Citrate-3 + H+ = FeCitrateH+,19.8,minteq,delta_h 0       kcal
